@@ -1,0 +1,11 @@
+pandas
+numpy
+chembl_webresource_client
+lightgbm
+scikit-learn
+matplotlib
+pyarrow
+rdkit
+optuna
+
+mol2vec @ git+https://github.com/FergusJJ/mol2vec
